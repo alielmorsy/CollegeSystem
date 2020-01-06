@@ -28,9 +28,9 @@ and Desktop Application created by `python` and gui by `PyQt5`and `PHP` to conne
 
 ## Reference
 For Desktop Application
-	 - [Pypng](https://github.com/drj11/pypng)
-	 - [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro)
-	 - [PyQRCode](https://pypi.org/project/PyQRCode/) 
+	- [Pypng](https://github.com/drj11/pypng)
+	- [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro)
+	- [PyQRCode](https://pypi.org/project/PyQRCode/) 
 
 For Android Application
 
