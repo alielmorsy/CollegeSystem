@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">StudentEductionSystem</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nothing">Sorry There are no %s added by the doctor try again later...or problem in connection</string>
+    <string name="file_type">Type: %s</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="result_hours">%d hours</string>
+    <string name="title_activity_exam_schedule">ExamScheduleActivity</string>
+    <string name="best_luck">Best Of Luck!!</string>
+    <string name="exam_sch_text">%s Term Exam Schedule Is Out</string>
+    <string name="time">%s to %s</string>
+    <string name="title_activity_credit_hours">CreditHoursActivity</string>
+    <string name="subject_hours">%d Hour(s)</string>
+    <string name="about">This app is created for project in kfs by/Ali Ibrahim Elmorsy
+    this project for Dr/Amr AbuHany IN INFORMATION SYSTEM in level 2
+    </string>
+</resources>
