@@ -1,4 +1,4 @@
-# Faculty aid (FA)
+# Faculty-Aid (FA)
 FA is a developed system used for using in faculty include desktop application for doctors and students affairs  and android application to students
 and Desktop Application created by `python` and gui by `PyQt5`and `PHP` to connect Android Application to mysql database 
 
